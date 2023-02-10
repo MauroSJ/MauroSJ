@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is Mauro Simón José
 #### I am FullStack Student
+ I'm 26 years old and I'm from Argentina, Tucumán.
  I'm currently studying for developer in RollingCodeSchool
 
 
